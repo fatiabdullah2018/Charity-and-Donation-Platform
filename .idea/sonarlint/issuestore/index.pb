@@ -9,3 +9,5 @@ E
 tests/charity.test.ts,e/5/e5e6e94f2125ed039782a035fc192c4be340b023
 G
 contracts/donation.clar,6/8/68f64244c86057dce243569878a93827ada4b71c
+F
+tests/donation.test.ts,a/0/a02a1030a4bcdaf837e68a882020ea2652efef36
